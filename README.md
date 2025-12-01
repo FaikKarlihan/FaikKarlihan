@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faik</h1>
 - 🌱 I’m currently learning **Software Architectures**
 
-- 📝 I regularly write articles on software development [https://medium.com/@faik_han](https://medium.com/@faik_han)
+- 📝 I regularly write articles on software development [https://medium.com/@faikkarlihan](https://medium.com/@faikkarlihan)
 
 - 📫 How to reach me **faik_han@outlook.com**
 
